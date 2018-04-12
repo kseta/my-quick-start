@@ -28,6 +28,7 @@ homebrew_packages:
   - { name: httpie }
   - { name: icu4c }
   - { name: imagemagick }
+  - { name: jq }
   - { name: mysql }
   - { name: n }
   - { name: openssl }
