@@ -1,6 +1,7 @@
 homebrew_taps:
   - caskroom/cask
   - caskroom/fonts
+  - caskroom/versions
   - git-duet/tap
   - homebrew/php
 
@@ -60,6 +61,7 @@ homebrew_cask_packages:
   - { name: font-ricty-diminished }
   - { name: font-source-han-code-jp }
   - { name: java }
+  - { name: microsoft-remote-desktop-beta }
   - { name: mysqlworkbench }
   - { name: ngrok }
   - { name: phpstorm }
