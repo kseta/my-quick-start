@@ -47,6 +47,7 @@ homebrew_packages:
   - { name: symfony-installer }
   - { name: the_silver_searcher }
   - { name: tree }
+  - { name: watchman }
   - { name: wget }
   - { name: z }
   - { name: zsh }
