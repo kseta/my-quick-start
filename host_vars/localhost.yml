@@ -67,6 +67,7 @@ homebrew_cask_packages:
   - { name: ngrok }
   - { name: phpstorm }
   - { name: pycharm-ce }
+  - { name: skitch }
   - { name: skype }
   - { name: vagrant }
   - { name: vagrant-manager }
