@@ -19,7 +19,9 @@ homebrew_packages:
   - { name: ghq }
   - { name: git }
   - { name: git-duet } # https://github.com/git-duet/homebrew-tap
+  - { name: git-lfs }
   - { name: go }
+  - { name: gotour }
   - { name: heroku }
   - { name: homebrew/php/php-cs-fixer }
   - { name: homebrew/php/php70-memcached }
